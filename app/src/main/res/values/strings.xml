@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plinkz</string>
+    <string name="your_links">Your Links</string>
+    <string name="no_links_yet">No links added yet. Tap + to add a new link.</string>
+    <string name="add_new_link">Add new link</string>
+    <string name="default_web_client_id">967545383096-v7ig7bs94g63bjhr27uuun42l71aqotl.apps.googleusercontent.com</string>
+
+    <string name="app_logo">App Logo</string>
+    <string name="welcome_message">Welcome to Plinkz</string>
+    <string name="sign_in_prompt">Sign in with Google to access all features</string>
+    <string name="terms_and_privacy">By signing in, you agree to our Terms of Service and Privacy Policy</string>
+    <string name="sign_out">Sign Out</string>
+</resources>

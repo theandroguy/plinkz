@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+        <color name="colorPrimary">#6200EE</color> <!-- Replace with your desired color -->
+        <color name="colorAccent">#03DAC5</color>  <!-- Replace with your desired color -->
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="accent">#1976D2</color>
+
+    <color name="background_color">#FFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+    <color name="my_dark_primary">#FF6F61</color> <!-- Example primary color -->
+    <color name="my_dark_background">#121212</color> <!-- Very dark background color -->
+    <color name="my_dark_surface">#1E1E1E</color> <!-- Dark surface color for cards -->
+    <color name="gray_light">#B0BEC5</color> <!-- Light gray for secondary text -->
+    <color name="gray_dark">#7B7B7B</color> <!-- Dark gray for hint text -->
+
+
+</resources>

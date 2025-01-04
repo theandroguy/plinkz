@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Plinkz" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/my_dark_primary</item>
+        <item name="colorOnPrimary">@color/white</item> <!-- Text color on primary -->
+
+        <!-- Background color for dark mode -->
+
+        <item name="colorOnBackground">@color/white</item> <!-- Text color on background -->
+
+        <!-- Surface colors -->
+        <item name="colorSurface">@color/my_dark_surface</item>
+        <item name="colorOnSurface">@color/white</item> <!-- Text color on surface -->
+
+        <!-- Other text colors -->
+        <item name="android:textColor">@color/white</item> <!-- Default text color -->
+        <item name="android:textColorSecondary">@color/gray_light</item> <!-- Secondary text color -->
+        <item name="android:textColorHint">@color/white</item> <!-- Hint text color -->
+    </style>
+</resources>
