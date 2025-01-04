@@ -23,19 +23,17 @@ Tired of losing track of all those cool links you find on social media? 😫 Not
 
 Here’s a preview of the app in action:
 
-| Screenshot 1 | Screenshot 2 |
-|--------------|--------------|
-| ![Screenshot 1](https://github.com/theandroguy/plinkz/blob/main/assets/1plinkz.webp) | ![Screenshot 2](https://github.com/theandroguy/plinkz/blob/main/assets/2plinkz.webp) |
+![Screenshot 1](https://github.com/theandroguy/plinkz/blob/main/assets/1plinkz.webp)
+![Screenshot 2](https://github.com/theandroguy/plinkz/blob/main/assets/2plinkz.webp)
+![Screenshot 3](https://github.com/theandroguy/plinkz/blob/main/assets/3plinkz.webp)
+![Screenshot 4](https://github.com/theandroguy/plinkz/blob/main/assets/4plinkz.webp)
 
-| Screenshot 3 | Screenshot 4 |
-|--------------|--------------|
-| ![Screenshot 3](https://github.com/theandroguy/plinkz/blob/main/assets/3plinkz.webp) | ![Screenshot 4](https://github.com/theandroguy/plinkz/blob/main/assets/4plinkz.webp) |
 
 ## Installation
 
 ### Download the app on Google Play Store
 
-[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Play_Logo_2015.png)](https://play.google.com/store/apps/details?id=com.tushar.plinkz)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png)](https://play.google.com/store/apps/details?id=com.tushar.plinkz)
 
 Click the icon above to download Plinkz from the Google Play Store!
 
