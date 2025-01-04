@@ -106,7 +106,7 @@ public class ShareActivity extends AppCompatActivity {
 
         databaseReference.child(linkId).setValue(link).addOnCompleteListener(task -> {
             if (task.isSuccessful()) {
-                // TODO: Save link locally in Room or SQLite
+                // Save link locally in Room or SQLite
                 // Example: linkDao.insert(link);
                 Toast.makeText(ShareActivity.this, "Link saved successfully!", Toast.LENGTH_SHORT).show();
                 finish(); // Close the activity after saving
